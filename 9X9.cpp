@@ -4,6 +4,7 @@
 #define x 30
 #define y 30
 //connect first to win the game
+//add only odd links
 using namespace std;
 
 
