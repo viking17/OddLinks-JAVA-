@@ -7,6 +7,7 @@
 //connect first to win the game
 //add only odd links
 //enjoy the game
+//all the best
 =======
 
 >>>>>>> 1cf960b12547498a2a40ac9275ab6d9a597f27d0
