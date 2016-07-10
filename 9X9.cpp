@@ -3,8 +3,13 @@
 #include<stdlib.h>
 #define x 30
 #define y 30
+<<<<<<< HEAD
 //connect first to win the game
 //add only odd links
+//enjoy the game
+=======
+
+>>>>>>> 1cf960b12547498a2a40ac9275ab6d9a597f27d0
 using namespace std;
 
 
