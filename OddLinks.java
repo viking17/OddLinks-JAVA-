@@ -175,7 +175,7 @@ System.out.flush();
 		}
 
 		//check for fdiagonal
-
+		//
 		for(l = (n-1)/2;l<=x-(n-1)/2;l++)
 		{
 			for(m = (n-1)/2;m<=y-(n-1)/2;m++)
